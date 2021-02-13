@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on **Cyber Security**
 
-- 🌱 I’m currently learning **DS ALGO**
+- 🌱 I’m currently learning **Game Dev**
 
 <h4>Stack I work with</h4>
 <p align="left">
