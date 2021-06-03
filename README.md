@@ -22,7 +22,7 @@
  <p align="center"> 
  
  <img src="https://github-readme-stats.vercel.app/api?username=C19H3R&show_icons=true&hide=contribs" alt="C19H3R" /> 
- <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=C19H3R&layout=compact" alt="C19H3R" />
+ 
  </p>
 
 
