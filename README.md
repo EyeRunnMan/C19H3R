@@ -2,9 +2,8 @@
 <h3 align="center">A passionate developer from INDIA <img src="https://image.flaticon.com/icons/svg/3014/3014003.svg" width="14"/> </h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=C19H3R" alt="C19H3R" /></p>
 
-- 🔭 I’m currently working on **Game Dev & Unity**
 
-- 🌱 I’m currently learning **C#**
+- 🌱 I’m currently learning **Fullstack Development**
 
 <h4>Stack I work with</h4>
 <p align="left">
